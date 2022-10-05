@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Avngrss/Avngrss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Меня зовут Юра
 
-Here are some ideas to get you started:
+### Я junuor Frondend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Я изучаю JavaScript и активно учу React
+- Верстаю сайты
+- Буду рад вашему совету и новым знакомствам
+
+### Мои навыки и используемые инструменты
+
+<img align="left" width="48px" src="./src/html.png">
+<img align="left" width="48px" src="./src/css.png">
+<img align="left" width="48px" src="./src/sass.png">
+<img align="left" width="48px" src="./src/js.png">
+<img align="left" width="48px" src="./src/gulp.png">
+<img align="left" width="48px" src="./src/bootstrap.png">
