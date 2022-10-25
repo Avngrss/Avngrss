@@ -15,4 +15,4 @@
 <img align="left" width="48px" src="./src/js.png">
 <img align="left" width="48px" src="./src/gulp.png">
 <img align="left" width="48px" src="./src/bootstrap.png">
-
+<img align="left" width="48px" src="./src/figma.png">
