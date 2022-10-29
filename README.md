@@ -6,6 +6,7 @@
 
 - I'm leagrning JavaScript and React
 - I develop websites and doing web design in Figma
+### My CV https://avngrss.github.io/CV/#en
 
 ### My skills and tools
 
