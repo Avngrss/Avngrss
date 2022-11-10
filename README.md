@@ -2,7 +2,7 @@
 
 ## My name is Yura
 
-### I'm is junuor Web Developer
+### I'm is junuor Front-End Developer
 
 - I'm leagrning JavaScript and React
 - I develop websites and doing web design in Figma
