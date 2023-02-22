@@ -2,10 +2,10 @@
 
 ## My name is Yura
 
-### I'm junior Web Devoloper
+### I'm a junior Web Devoloper
 
 - I'm learning JavaScript and React
-- I develop websites and doing web design in Figma
+- I develop websites.
 ### My CV https://avngrss.github.io/CV/#en
 
 ### My skills and tools
