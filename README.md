@@ -3,7 +3,7 @@
 ## My name is Yura
 
 
-### My CV https://avngrss.github.io/CV/#en
+### CV https://avngrss.github.io/CV/#en
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>⚡ Fun fact
