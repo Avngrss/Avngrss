@@ -3,7 +3,7 @@
 ## My name is Yura
 
 
-### CV https://shiny-kelpie-75c2b5.netlify.app/
+### Portfolio https://shiny-kelpie-75c2b5.netlify.app/
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>⚡ Fun fact
