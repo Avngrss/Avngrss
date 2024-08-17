@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My name is Yura
+## My name is Yura. I am a QA ingeener.
 
 
 ### Portfolio https://shiny-kelpie-75c2b5.netlify.app/
