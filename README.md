@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My name is Yura. I am a QA ingeener.
+## My name is Yura. I am a QA ingeener from Belarus.
 
 
 ### Portfolio https://shiny-kelpie-75c2b5.netlify.app/
