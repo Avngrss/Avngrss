@@ -6,8 +6,12 @@
 ### Portfolio https://shiny-kelpie-75c2b5.netlify.app/
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>⚡ Fun fact
-
+I am an enthusiastic and motivated Junior Quality Assurance (QA) Tester with a strong passion for ensuring software quality and user satisfaction. I am eager to contribute my skills and learn from experienced professionals in a dynamic testing environment.
+* Foundational Testing Knowledge: I have a solid understanding of fundamental testing principles, including functional, regression, and exploratory testing. My academic background and hands-on experience with test case creation, bug reporting, and issue tracking have provided me with a solid foundation in QA practices.
+* I have  knowledge of programming language like JavaScript, which helps me understand the development process and communicate effectively with developers. I am eager to build on this foundation to enhance my testing capabilities.
+* My attention to detail and analytical mindset enable me to identify issues effectively and contribute to finding solutions. I am committed to learning and applying best practices to improve the quality of software products.
+* I am enthusiastic about new challenges and am eager to continuously learn and grow in the field of software testing. My proactive approach and willingness to adapt make me a quick learner and a valuable team member.
+* I'm ready to grow as an AQA
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yurii-sedow-193a46252) 
