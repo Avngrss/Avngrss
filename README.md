@@ -3,7 +3,7 @@
 ## My name is Yura. I am a QA ingeener from Belarus.
 
 
-### Portfolio https://shiny-kelpie-75c2b5.netlify.app/
+### About me  https://shiny-kelpie-75c2b5.netlify.app/
 
 # 💫 About Me:
 I am an enthusiastic and motivated Junior Quality Assurance (QA) Tester with a strong passion for ensuring software quality and user satisfaction. I am eager to contribute my skills and learn from experienced professionals in a dynamic testing environment.
