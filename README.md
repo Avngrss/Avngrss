@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My name is Yura. I am a QA ingeener from Belarus.
+## My name is Yura. I am a QA/AQA ingeener from Belarus.
 
 
 ### About me  https://shiny-kelpie-75c2b5.netlify.app/
@@ -11,7 +11,6 @@ I am an enthusiastic and motivated Junior Quality Assurance (QA) Tester with a s
 * I have  knowledge of programming language like JavaScript, which helps me understand the development process and communicate effectively with developers. I am eager to build on this foundation to enhance my testing capabilities.
 * My attention to detail and analytical mindset enable me to identify issues effectively and contribute to finding solutions. I am committed to learning and applying best practices to improve the quality of software products.
 * I am enthusiastic about new challenges and am eager to continuously learn and grow in the field of software testing. My proactive approach and willingness to adapt make me a quick learner and a valuable team member.
-* I'm ready to grow as an AQA
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yurii-sedow-193a46252) 
