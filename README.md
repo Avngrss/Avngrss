@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My name is Yura. I am a QA/AQA engineer from Belarus.
+## My name is Yury. I am a Quality Assurance Engineer engineer from Belarus.
 
 # 💫 Summary:
 I am an enthusiastic and motivated Quality Assurance Engineer with a strong passion for ensuring software quality and user satisfaction. My expertise includes both manual and automated testing, with a focus on creating robust and maintainable test automation frameworks.
