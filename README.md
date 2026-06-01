@@ -5,7 +5,7 @@
 # 💫 Summary:
 I am an enthusiastic and motivated Quality Assurance Engineer with a strong passion for ensuring software quality and user satisfaction. My expertise includes both manual and automated testing, with a focus on creating robust and maintainable test automation frameworks.
 
-*   **End-to-End Testing:** Experienced in developing and maintaining automated test suites for web applications using modern tools like **Playwright** and **Cypress**. Skilled in creating reliable tests that cover critical user flows, from UI interactions to API validation.
+*   **End-to-End Testing:** Experienced in developing and maintaining automated test suites for web applications using modern tools like **Playwright** . Skilled in creating reliable tests that cover critical user flows, from UI interactions to API validation.
 *   **Programming & Scripting:** Proficient in **JavaScript** for test automation, allowing me to write efficient scripts, understand application codebases, and collaborate effectively with development teams.
 *   **Testing Methodology:** Solid understanding of testing principles including functional, regression, integration, and exploratory testing. Experienced in test case design, bug reporting, and defect tracking throughout the SDLC.
 *   **Continuous Learning:** Passionate about staying current with industry trends and best practices in test automation. Always eager to tackle new challenges and expand my technical skill set.
