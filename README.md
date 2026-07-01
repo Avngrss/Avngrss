@@ -1,20 +1,18 @@
 # Hi there 👋
 
-## My name is Yury. I am a Quality Assurance Engineer  from Belarus.
+## My name is Yury.
 
 # 💫 Summary:
-I am an enthusiastic and motivated Quality Assurance Engineer with a strong passion for ensuring software quality and user satisfaction. My expertise includes both manual and automated testing, with a focus on creating robust and maintainable test automation frameworks.
+I am a motivated Quality Assurance Engineer with a focus on software quality and user experience. I have hands-on experience in both manual and automated testing and enjoy building reliable and maintainable test solutions.
 
-*   **End-to-End Testing:** Experienced in developing and maintaining automated test suites for web applications using modern tools like **Playwright** . Skilled in creating reliable tests that cover critical user flows, from UI interactions to API validation.
-*   **Programming & Scripting:** Proficient in **JavaScript** for test automation, allowing me to write efficient scripts, understand application codebases, and collaborate effectively with development teams.
-*   **Testing Methodology:** Solid understanding of testing principles including functional, regression, integration, and exploratory testing. Experienced in test case design, bug reporting, and defect tracking throughout the SDLC.
-*   **Continuous Learning:** Passionate about staying current with industry trends and best practices in test automation. Always eager to tackle new challenges and expand my technical skill set.
-*   **Analytical Mindset:** Strong attention to detail and problem-solving skills, enabling me to identify issues effectively and contribute to sustainable solutions that improve product quality.
+* **Test Automation:** Work with **Playwright** and **JavaScript/TypeScript** to create and maintain automated tests for web applications. Focus on covering key user scenarios and keeping tests stable and readable.
+* **Manual Testing:** Experience in functional, regression, and exploratory testing. Confident in test case creation, bug reporting, and working with tools like **Jira** and **TestRail**.
+* **API Testing:** Basic experience with **REST API**, **Postman**, and validating responses to ensure backend correctness.
+* **Web Basics:** Good understanding of how web applications work (HTML, CSS, browser DevTools), which helps in debugging and analysis.
+* **Collaboration & Learning:** Comfortable working in a team, interacting with developers, and continuously improving testing skills step by step.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yurii-sedow-193a46252) 
-
-
 
 # 💻 Tech Stack:
 ![QA](https://img.shields.io/badge/QA-000000?style=flat)
