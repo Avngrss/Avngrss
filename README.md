@@ -1,8 +1,6 @@
 # Hi there 👋
 
 ## My name is Yury.
-
-# 💫 Summary:
 I am a motivated Quality Assurance Engineer with a focus on software quality and user experience. I have hands-on experience in both manual and automated testing and enjoy building reliable and maintainable test solutions.
 
 * **Test Automation:** Work with **Playwright** and **JavaScript/TypeScript** to create and maintain automated tests for web applications. Focus on covering key user scenarios and keeping tests stable and readable.
