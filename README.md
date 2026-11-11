@@ -145,9 +145,9 @@ https://img.shields.io/badge/Allure_3-FF6A00?style=flat-square&logo=qameta&logoC
 ### Investigation Tools
 
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-3B82F6?style=flat-square&logo=charles&logoColor=white)
-https://img.shields.io/badge/Network_Analysis-4285F4?style=flat-square&logo=googlechrome&logoColor=white
-https://img.shields.io/badge/Trace_Viewer-45BA4B?style=flat-square&logo=playwright&logoColor=white
+https://img.shields.io/badge/Charles_Proxy-3B82F6?style=flat-square
+![Network Analysis](https://img.shields.io/badge/Network_Analysis-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Playwright Trace Viewer](https://img.shields.io/badge/Trace_Viewer-45BA4B?style=flat-square&logo=playwright&logoColor=white)
 
 ## Contact
 
