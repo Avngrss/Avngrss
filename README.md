@@ -118,37 +118,47 @@ AI will assist with scenario preparation and result analysis while assumptions, 
 
 ### Automation and Development
 
-![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=flat-square&logo=playwright&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Playwright-45BA4B?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</p>
 
 ### API and Performance Testing
 
-https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST API">
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6">
+</p>
 
 ### CI/CD and Reporting
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white
-https://img.shields.io/badge/Allure_3-FF6A00?style=flat-square&logo=qameta&logoColor=white
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI">
+  <img src="https://img.shields.io/badge/Allure-FF6A00?style=flat-square&logo=qameta&logoColor=white" alt="Allure">
+</p>
 
 ### Investigation Tools
 
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-https://img.shields.io/badge/Charles_Proxy-3B82F6?style=flat-square
-![Network Analysis](https://img.shields.io/badge/Network_Analysis-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-![Playwright Trace Viewer](https://img.shields.io/badge/Trace_Viewer-45BA4B?style=flat-square&logo=playwright&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome DevTools">
+  <img src="https://img.shields.io/badge/Charles_Proxy-3B82F6?style=flat-square" alt="Charles Proxy">
+  <img src="https://img.shields.io/badge/Network_Analysis-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Network Analysis">
+  <img src="https://img.shields.io/badge/Trace_Viewer-45BA4B?style=flat-square&logo=playwright&logoColor=white" alt="Playwright Trace Viewer">
+</p>
 
 ## Contact
 
-https://img.shields.io/badge/LinkedIn-Yury_Siadou-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://linkedin.com/in/yury-siadou)
+<a href="https://linkedin.com/in/yury-siadou">
+  <img src="https://img.shields.io/badge/LinkedIn-Yury_Siadou-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Yury Siadou">
+</a>
